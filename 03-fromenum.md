@@ -1,6 +1,6 @@
 ## Exercise 03
 
-`toUpper` converts a lower case `Char` to an upper case one. Fix type errors.
+`toUpper` converts a lower case `Char` to an upper case one. Fix type errors. Explain why there's no type errors in GHCi.
 
 ```Haskell
 fromEnum :: Char -> Int
